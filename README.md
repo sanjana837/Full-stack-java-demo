@@ -1,0 +1,1 @@
+A full-stack web application developed using Java technologies to demonstrate end-to-end web development concepts, including frontend design, backend development, database integration, and RESTful APIs. This project showcases user-friendly interfaces, efficient data management, and scalable application architecture.
